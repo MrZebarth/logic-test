@@ -1,0 +1,47 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAO4AAAAAAEDu7gAA4O4ARC4CACBO5OAuIgIAIu5O5O4iAgAiTk7k7iLiDiJEROTuIuIOIkREJO4i4g4i7uTk7iLiDiJE7uREIgIOIETkREQiAAAgQORERAAAACBA5AAEAAAAAAAEAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mario_run_1"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4O4A7i4AACBORODu7gIAIu5O5O5OJO4iTk4kLk4k7iJEROQiQiTuIkRE5EJC4u4i7uTkLiLi7i5E7uQuIuIOIE7kBE4i7g4gQOQO4O4ADuDg5AAAAAAAAAAOAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mario_run_2"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAARAQAAAAAAABEBOAOAAAA4E4E4u4A4O7gTiAi7iBO5ODuIiLuIu5O5O4iIuAiTk4kIiIiACJERCRCIgIAIkRE5CIiAgAi7uTkLiIiACJE7uQuIiIAIETkBO4iIgAgQOQE5ODuACBA5ABE7u4AAAAEAETu7gAAAAAARAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mario_run_3"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAABAAAAAAAIEDkAAQAAAAgQORERAAAACBE5EREIgAAIkTu5EQiAg4i7uTk7iLiDiJERCTuIuIOIkRE5O4i4g4iTk7k7iLiDiLuTuTuIgIAIE7k4C4iAgAA4O4ARC4CAAAAAABA7u4AAAAAAAAA7gAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mario_run_4"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAADgAAAAAA4ODkAAAAAAAgQOQO4O4ADiBO5AROIu4OLkTu5C4i4g4i7uTkLiLi7iJERORCQuLuIkRE5CJCJO4iTk4kLk4k7iLuTuTuTiTuIE5E4O7uAgAA4O4A7i4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mario_run_5"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAARAAAAAAABABE7u4AIEDkAETu7gAgQOQE5ODuACBE5ATuIiIAIkTu5C4iIgAi7uTkLiIiACJEROQiIgIAIkREJEIiAgAiTk4kIiIiACLuTuTuIiLgIE7k4O4iIu4A4O7gTiAi7gAAAOBOBOLuAAAAAEQE4A4AAAAARAQAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mario_run_6"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBEBOAA4O4A7kQE7iBO5ODuRCLuIu5O5E4iIu4iTk4kIiQi7iJEROQuIuIAIkRE5CQiAgAi7uTkIiQiAC5E7uTuIiLuIE7kBO5EIu4gQOQOTkTk7uDg5ABORATuAAAOAODuDuAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Mario Idle"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAADgDg7g7g4ODkAE5EBO4gQOQOTkTk7iBO5ATuRCLuLkTu5O4iIu4i7uTkIiQiACJEROQkIgIAIkRE5C4i4gAiTk4kIiQi7iLuTuROIiLuIE7k4O5EIu4A4O4A7kQE7gAAAABARATgAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Mario Idle2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
