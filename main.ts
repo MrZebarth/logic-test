@@ -1,11 +1,11 @@
 enum ActionKind {
-    Walking,
-    Idle,
-    Jumping,
     LWalk,
     RWalk,
     LIdle,
-    RIdle
+    RIdle,
+    Walking,
+    Idle,
+    Jumping
 }
 function Setup_Animations () {
     Left_Walk()
